@@ -4,6 +4,8 @@ tdengine/tdengine:3.2.0.0
 apache/rocketmq:5.2.0
 apacherocketmq/rocketmq-dashboard:latest
 minio/minio
+nacos/nacos-server
+redis
 
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
