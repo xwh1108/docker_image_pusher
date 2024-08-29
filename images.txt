@@ -8,6 +8,8 @@ nacos/nacos-server
 redis
 redis:7.2.4
 neo4j:5.23.0
+grafana/loki:latest
+grafana/grafana:latest
 
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
