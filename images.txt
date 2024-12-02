@@ -1,4 +1,4 @@
-nginx
+--platform=linux/arm64 nginx
 openjdk:17.0.2-oraclelinux8
 tdengine/tdengine:3.2.0.0
 apache/rocketmq:5.2.0
