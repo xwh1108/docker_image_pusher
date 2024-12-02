@@ -13,7 +13,7 @@
 #bellsoft/liberica-openjdk-debian:17.0.11-cds
 #imresamu/postgis-arm64:15-3.4.3-alpine3.19-ver20241107-1624f77-2024w48
 #--platform=linux/arm64 python:3.11.3
-arm64v8/python:3.11-bullseye
+--platform=linux/arm64 arm64v8/python:3.11
 
 
 #支持私库
