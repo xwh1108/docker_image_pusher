@@ -5,7 +5,7 @@ apache/rocketmq:5.2.0
 apacherocketmq/rocketmq-dashboard:latest
 minio/minio
 nacos/nacos-server
-redis
+--platform=linux/arm64 redis
 redis:7.2.4
 neo4j:5.23.0
 grafana/loki:latest
