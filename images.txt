@@ -12,6 +12,7 @@ grafana/loki:latest
 grafana/grafana:latest
 bellsoft/liberica-openjdk-debian:17.0.11-cds
 imresamu/postgis-arm64:15-3.4.3-alpine3.19-ver20241107-1624f77-2024w48
+arm64v8/python:3.11.3
 
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
