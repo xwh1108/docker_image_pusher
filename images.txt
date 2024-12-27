@@ -16,6 +16,7 @@
 --platform=linux/arm64 arm64v8/python:3.11
 jenkins/jenkins:2.452.1-jdk17
 jenkins/inbound-agent:3248.v65ecb_254c298-1
+zlmediakit/zlmediakit:master
 
 
 #支持私库
