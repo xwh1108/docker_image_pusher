@@ -18,6 +18,7 @@ jenkins/jenkins:2.452.1-jdk17
 jenkins/inbound-agent:3248.v65ecb_254c298-1
 zlmediakit/zlmediakit:master
 emqx/emqx:5.8.4
+prom/node-exporter
 
 
 #支持私库
