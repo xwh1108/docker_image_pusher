@@ -19,6 +19,9 @@ jenkins/inbound-agent:3248.v65ecb_254c298-1
 zlmediakit/zlmediakit:master
 emqx/emqx:5.8.4
 prom/node-exporter
+kubesphere/kube-webhook-certgen:v1.1.1
+kubesphere/openelb-controller:v0.6.0
+kubesphere/openelb-speaker:v0.6.0
 
 
 #支持私库
