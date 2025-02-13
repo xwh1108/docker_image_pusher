@@ -13,15 +13,16 @@
 #bellsoft/liberica-openjdk-debian:17.0.11-cds
 #imresamu/postgis-arm64:15-3.4.3-alpine3.19-ver20241107-1624f77-2024w48
 #--platform=linux/arm64 python:3.11.3
---platform=linux/arm64 arm64v8/python:3.11
-jenkins/jenkins:2.452.1-jdk17
-jenkins/inbound-agent:3248.v65ecb_254c298-1
-zlmediakit/zlmediakit:master
-emqx/emqx:5.8.4
-prom/node-exporter
-kubesphere/kube-webhook-certgen:v1.1.1
-kubesphere/openelb-controller:v0.6.0
-kubesphere/openelb-speaker:v0.6.0
+#--platform=linux/arm64 arm64v8/python:3.11
+#jenkins/jenkins:2.452.1-jdk17
+#jenkins/inbound-agent:3248.v65ecb_254c298-1
+#zlmediakit/zlmediakit:master
+#emqx/emqx:5.8.4
+#prom/node-exporter
+#kubesphere/kube-webhook-certgen:v1.1.1
+#kubesphere/openelb-controller:v0.6.0
+#kubesphere/openelb-speaker:v0.6.0
+dqzboy/mirror-hub:latest
 
 
 #支持私库
