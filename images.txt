@@ -22,7 +22,7 @@
 #kubesphere/kube-webhook-certgen:v1.1.1
 #kubesphere/openelb-controller:v0.6.0
 #kubesphere/openelb-speaker:v0.6.0
-dqzboy/mirror-hub:latest
+#dqzboy/mirror-hub:latest
 
 
 #支持私库
@@ -30,3 +30,4 @@ dqzboy/mirror-hub:latest
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
+--platform=linux/arm64 osgeo/gdal:ubuntu-full-3.5.0
