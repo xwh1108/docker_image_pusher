@@ -11,6 +11,7 @@
 #grafana/loki:latest
 #grafana/grafana:latest
 #bellsoft/liberica-openjdk-debian:17.0.11-cds
+bellsoft/liberica-openjdk-debian:21.0.3-cds
 #imresamu/postgis-arm64:15-3.4.3-alpine3.19-ver20241107-1624f77-2024w48
 #--platform=linux/arm64 python:3.11.3
 #--platform=linux/arm64 arm64v8/python:3.11
