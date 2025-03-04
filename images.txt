@@ -31,4 +31,4 @@ bellsoft/liberica-openjdk-debian:21.0.3-cds
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
---platform=linux/arm64 osgeo/gdal:ubuntu-full-3.5.0
+#--platform=linux/arm64 osgeo/gdal:ubuntu-full-3.5.0
