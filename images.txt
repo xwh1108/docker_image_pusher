@@ -24,8 +24,7 @@
 #kubesphere/openelb-controller:v0.6.0
 #kubesphere/openelb-speaker:v0.6.0
 #dqzboy/mirror-hub:latest
-prometheus
-
+bitnami/prometheus
 
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
