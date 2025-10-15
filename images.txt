@@ -11,6 +11,7 @@
 #grafana/loki:latest
 #grafana/grafana:latest
 #bellsoft/liberica-openjdk-debian:17.0.11-cds
+liberica-openjdk-debian:17.0.11
 #bellsoft/liberica-openjdk-debian:21.0.3-cds
 #imresamu/postgis-arm64:15-3.4.3-alpine3.19-ver20241107-1624f77-2024w48
 #--platform=linux/arm64 python:3.11.3
@@ -26,7 +27,7 @@
 #dqzboy/mirror-hub:latest
 #bitnami/prometheus
 #emqx/neuron:latest
-node:22-alpine3.21
+#node:22-alpine3.21
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
